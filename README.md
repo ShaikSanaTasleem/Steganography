@@ -1,4 +1,4 @@
-# StegSecure: Encrypted Data Hiding in Images
+# Stegnography: Encrypted Data Hiding in Images
 
 A hybrid steganography system built in Python using XOR encryption, LSB embedding, and pixel tweaking to securely hide text within images—all implemented in a Jupyter Notebook.
 
